@@ -1,1 +1,34 @@
+//tittle
+.titleText {
+    text-align: center;
+}
 
+// centering the image/icon
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+//headings
+.headingStyle {
+    font-size: bold;
+}
+
+//background vid
+#vid {
+    position: fixed;
+    right: 0;
+    bottom: 0;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+//card content
+.contentStyle {
+    font-weight: bold;
+}
+
+.inputBox {
+    --background: rgb(203, 220, 233);
+}
